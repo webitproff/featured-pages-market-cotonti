@@ -1,9 +1,17 @@
 # Featured Articles in Market PRO
 
-**Featured Articles in Market PRO** is a plugin for **CMF Cotonti Siena v0.9.26+** that allows you to manually assign and display featured (recommended) articles (pages) on **Market PRO** product pages.
+ ## 🇬🇧 
+ **Featured Articles in Market PRO** is a plugin for **CMF Cotonti Siena v0.9.26+** that allows you to manually assign and display featured (recommended) articles (pages) on **Market PRO** product pages.
 
 The plugin adds an article selection interface to the product edit form and outputs the selected articles on the public product page.
+ - **Required: [Module Market PRO v.5+ by webitproff](https://github.com/webitproff/marketpro-cotonti/)**
 
+[![Required: Module Market PRO v.5](https://img.shields.io/badge/Required-Module_Market_PRO_.5-green.svg)](https://github.com/webitproff/marketpro-cotonti/)
+[![Cotonti Compatibility](https://img.shields.io/badge/Cotonti_Siena-0.9.26-orange.svg)](https://github.com/Cotonti/Cotonti)
+[![PHP](https://img.shields.io/badge/PHP-8.4-purple.svg)](https://www.php.net/releases/8_4_0.php)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
+[![Bootstrap v5.3.8](https://img.shields.io/badge/Bootstrap-v5.3.8-blueviolet.svg)](https://getbootstrap.com/)
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/webitproff/marketpro-cotonti/blob/main/LICENSE)
 ---
 
 ## Compatibility
@@ -268,11 +276,18 @@ ___
 
 
 # Рекомендуемые статьи и страницы в карточке товара
-
+## 🇷🇺 
 **Featured Articles in Market PRO** — плагин для CMF **Cotonti Siena v0.9.26+**, который позволяет вручную назначать и отображать рекомендуемые статьи (pages) на странице товара модуля **Market PRO**.
 
 Плагин добавляет интерфейс выбора статей при редактировании товара и выводит связанные статьи в карточке товара на публичной части сайта.
+ - **Требуется: [Module Market PRO v.5+ by webitproff](https://github.com/webitproff/marketpro-cotonti/).**
 
+[![Required: Module Market PRO v.5](https://img.shields.io/badge/Required-Module_Market_PRO_.5-green.svg)](https://github.com/webitproff/marketpro-cotonti/)
+[![Cotonti Compatibility](https://img.shields.io/badge/Cotonti_Siena-0.9.26-orange.svg)](https://github.com/Cotonti/Cotonti)
+[![PHP](https://img.shields.io/badge/PHP-8.4-purple.svg)](https://www.php.net/releases/8_4_0.php)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
+[![Bootstrap v5.3.8](https://img.shields.io/badge/Bootstrap-v5.3.8-blueviolet.svg)](https://getbootstrap.com/)
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/webitproff/marketpro-cotonti/blob/main/LICENSE)
 ---
 
 ## Совместимость
