@@ -14,6 +14,8 @@ The plugin adds an article selection interface to the product edit form and outp
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/webitproff/marketpro-cotonti/blob/main/LICENSE)
 ---
 
+![featured-pages-market-cotonti_main](https://github.com/user-attachments/assets/5f427616-8feb-4d7a-954d-2c6d8f83bec0)
+
 ## Compatibility
 
 * **Cotonti Siena**: 0.9.26+
