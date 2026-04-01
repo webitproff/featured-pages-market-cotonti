@@ -23,7 +23,8 @@ defined('COT_CODE') or die('Wrong URL');
 
 global $cfg, $L, $db, $db_pages, $db_x; // $id,  $t
 
-require_once cot_langfile('featuredpagesmarket', 'plug');
+// Подключаем основной файл функций и настроек плагина Featured Articles in Market PRO
+require_once cot_incfile('featuredpagesmarket', 'plug');
 
 $max_page = (int)($cfg['plugin']['featuredpagesmarket']['maxitems_page'] ?? 5);
 if ($max_page < 1) $max_page = 5;
