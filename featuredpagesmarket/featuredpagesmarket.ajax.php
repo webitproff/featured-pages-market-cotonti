@@ -19,7 +19,7 @@
  */
 
 defined('COT_CODE') or die('Wrong URL');
-
+require_once cot_incfile('featuredpagesmarket', 'plug'); 
 header('Content-Type: application/json; charset=UTF-8');
 
 $q = cot_import('q', 'G', 'TXT');
