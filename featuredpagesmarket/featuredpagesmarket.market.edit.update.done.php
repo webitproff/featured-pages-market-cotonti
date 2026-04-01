@@ -22,7 +22,8 @@
 defined('COT_CODE') or die('Wrong URL');
 
 global $db, $db_pages, $db_x, $cfg; // 
-
+// Подключаем основной файл функций и настроек плагина Featured Articles in Market PRO
+require_once cot_incfile('featuredpagesmarket', 'plug');
 // При редактировании существующей страницы используем $id (он всегда доступен после загрузки страницы)
 $real_id = (int)($id > 0 ? $id : $page_id);
 
