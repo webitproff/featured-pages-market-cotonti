@@ -13,7 +13,16 @@
 
 
 defined('COT_CODE') or die('Wrong URL');
+// нужно было всего-то прописать строку 
+require_once cot_incfile('page', 'module'); 
 
+//проверяем, что бы по другим файлам, где это нужно было прописана строка
+// require_once cot_incfile('featuredpagesmarket', 'plug'); 
+
+// Определяем таблицу (если ещё не определена - это на всякий то ругается то нет)
+if (!isset($db_pages )) {
+    $db_pages = Cot::$db->pages;
+}
 require_once cot_langfile('featuredpagesmarket', 'plug');
 
 /**
